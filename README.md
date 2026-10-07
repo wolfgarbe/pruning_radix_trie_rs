@@ -196,3 +196,33 @@ the included term-frequency data.
 ## License
 
 Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+### Official implementations
+
+**Rust**<br>
+https://github.com/wolfgarbe/pruning_radix_trie_rs
+
+**C#**<br>
+https://github.com/wolfgarbe/PruningRadixTrie
+
+
+### Ports
+The following third party ports or reimplementations to other programming languages have not been tested by myself whether they are an exact port, error free, provide identical results or are as fast as the original algorithm. 
+
+**Go**<br>
+https://github.com/olympos-labs/pruning-radix-trie
+
+**Java**<br>
+https://github.com/benldr/JPruningRadixTrie<br>
+
+**Python**<br>
+https://github.com/otto-de/PyPruningRadixTrie<br>
+
+**Rust**<br>
+https://github.com/wolfgarbe/pruning_radix_trie_rs<br>
+https://github.com/peterall/pruning_radix_trie<br>
+
+---
+
+**pruning_radix_trie_rs** is contributed by [**SeekStorm** - the high performance Search as a Service & search API](https://seekstorm.com)
+
