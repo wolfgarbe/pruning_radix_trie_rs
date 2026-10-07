@@ -12,7 +12,7 @@ repository = "https://github.com/wolfgarbe/pruning_radix_trie_rs"
 readme = "README.md"
 rust-version = '1.91'
 edition = "2024"
-exclude = ["benches/*.*"]
+exclude = ["benches/test_data/*.*"]
 
 [dev-dependencies]
 symspell_complete_rs = "0.0.4"
